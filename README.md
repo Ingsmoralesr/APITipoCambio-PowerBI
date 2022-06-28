@@ -3,6 +3,8 @@ Consumir API del Tipo de Cambio Perú usando lenguaje M
 
 La API que se consume lo podemos ver desde el siguiente link: https://apis.net.pe/
 
+Tutorial: https://youtu.be/ebbZCSfrpV8?t=726
+
 
 
 👋 Hola soy Segundo Morales Rubio, esta es mi pequeña contribución para apoyar el proyecto de Juan E. Huamani Mendoza creador de estas API's.
